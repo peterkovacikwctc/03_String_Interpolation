@@ -67,7 +67,6 @@ namespace SleepData
 
                         // date information (before splitting with comma)
                         string date = arr[0];
-                        string[] dateArray = date.Split('/');
                         DateTime thisDate = Convert.ToDateTime(date);
 
                         // weekly sleep hours (after splitting with comma)
