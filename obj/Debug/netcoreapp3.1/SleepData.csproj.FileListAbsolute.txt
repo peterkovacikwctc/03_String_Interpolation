@@ -1,0 +1,12 @@
+/Users/peterkovacik/Documents/WCTC/dotNet database/SleepData/bin/Debug/netcoreapp3.1/SleepData.deps.json
+/Users/peterkovacik/Documents/WCTC/dotNet database/SleepData/bin/Debug/netcoreapp3.1/SleepData.runtimeconfig.json
+/Users/peterkovacik/Documents/WCTC/dotNet database/SleepData/bin/Debug/netcoreapp3.1/SleepData.runtimeconfig.dev.json
+/Users/peterkovacik/Documents/WCTC/dotNet database/SleepData/bin/Debug/netcoreapp3.1/SleepData.dll
+/Users/peterkovacik/Documents/WCTC/dotNet database/SleepData/bin/Debug/netcoreapp3.1/SleepData.pdb
+/Users/peterkovacik/Documents/WCTC/dotNet database/SleepData/obj/Debug/netcoreapp3.1/SleepData.csprojAssemblyReference.cache
+/Users/peterkovacik/Documents/WCTC/dotNet database/SleepData/obj/Debug/netcoreapp3.1/SleepData.AssemblyInfoInputs.cache
+/Users/peterkovacik/Documents/WCTC/dotNet database/SleepData/obj/Debug/netcoreapp3.1/SleepData.AssemblyInfo.cs
+/Users/peterkovacik/Documents/WCTC/dotNet database/SleepData/obj/Debug/netcoreapp3.1/SleepData.csproj.CoreCompileInputs.cache
+/Users/peterkovacik/Documents/WCTC/dotNet database/SleepData/obj/Debug/netcoreapp3.1/SleepData.dll
+/Users/peterkovacik/Documents/WCTC/dotNet database/SleepData/obj/Debug/netcoreapp3.1/SleepData.pdb
+/Users/peterkovacik/Documents/WCTC/dotNet database/SleepData/obj/Debug/netcoreapp3.1/SleepData.genruntimeconfig.cache
